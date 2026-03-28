@@ -37,29 +37,6 @@ I'm a Electronics Engineering student based in Hong Kong with a strong focus on 
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [FlipperZero-NFC-BLE-Tracker](https://github.com/BenjaminTia/FlipperZero-NFC-BLE-Tracker) | Scans, logs & classifies nearby NFC cards and BLE devices in real-time | C · Flipper Zero |
-| [ImgSeq2Vid-CLI-TUI](https://github.com/BenjaminTia/ImgSeq2Vid-CLI-TUI) | CLI + TUI tool to convert image sequences to video via FFmpeg with auto frame detection | Python · Textual |
-| [RogueSurvivoriOS](https://github.com/BenjaminTia/RogueSurvivoriOS) | Roguelike survival mobile game for iOS | Swift · Xcode |
-| [SimpleCalorieTrackerIOS](https://github.com/BenjaminTia/SimpleCalorieTrackerIOS) | Lightweight calorie tracking app for iOS | Swift · Xcode |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminTia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminTia&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"The most dangerous creation of any society is the man who has nothing to lose."*

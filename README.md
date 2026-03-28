@@ -2,7 +2,7 @@
 
 # Benjamin Tia
 
-**Electronics Engineering Student · Embedded Systems · IoT · RF/NFC**
+**Electronics Engineering Student · Embedded Systems · IoT · Hardware/Software**
 
 </div>
 

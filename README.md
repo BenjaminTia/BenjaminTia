@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Electronics Engineering student based in Hong Kong with a strong focus on **embedded systems**, **IoT devices**, and **low-level firmware development**. I enjoy building hardware-software projects that bridge the gap between microcontrollers and real-world applications — from RF/NFC security tools to teleoperative robotics.
+I'm a Electronics Engineering student based in Hong Kong with a strong focus on **embedded systems**, **IoT devices**, and **software development**. I enjoy building hardware-software projects that bridge the gap between computers and real-world applications.
 
 ---
 

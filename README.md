@@ -32,6 +32,8 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6600?style=flat-square)
+![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6A00?style=flat-square&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)

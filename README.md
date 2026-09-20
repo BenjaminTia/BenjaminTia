@@ -30,6 +30,7 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **Operating Systems**
 
@@ -44,15 +45,18 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 ![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF7A00?style=flat-square)
 ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6600?style=flat-square)
 
-**Tools**
+**Robotics & AI**
 
-![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6A00?style=flat-square&logo=autodesk&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+**Tools**
+
+![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6A00?style=flat-square&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---

@@ -2,7 +2,7 @@
 
 # Benjamin Tia
 
-**Computer Engineering Student · Embedded Systems · IoT · Hardware/Software**
+**Computer Engineering Student · Embedded Systems · IoT · Hardware/Software · AI**
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student based in Hong Kong with a strong focus on **embedded systems**, **IoT devices**, and **software development**. I enjoy building hardware-software projects that bridge the gap between computers and real-world applications.
+I'm a Computer Engineering student based in Hong Kong with a strong focus on **embedded systems**, **IoT devices**, **Machine Learning** and **software development**. I enjoy building hardware-software projects that bridge the gap between computers and real-world applications.
 
 ---
 

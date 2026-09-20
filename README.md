@@ -42,6 +42,7 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF7A00?style=flat-square)
 ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6600?style=flat-square)
 

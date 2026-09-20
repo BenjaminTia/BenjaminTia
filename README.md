@@ -29,12 +29,19 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)
 
 **Operating Systems**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Embedded Systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF7A00?style=flat-square)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6600?style=flat-square)
 
 **Tools**
 
@@ -43,8 +50,6 @@ I'm a Computer Engineering student based in Hong Kong with a strong focus on **e
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-333333?style=flat-square)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6600?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---

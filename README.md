@@ -12,7 +12,7 @@
 
 Computer engineering student based in Hong Kong, building robots end to end — mechanical design and CAD in Fusion 360, power and servo systems, embedded control on ESP32 and Orange Pi, and learning-based control with PyTorch. My pipeline runs through MuJoCo and Isaac Sim for simulation and ROS 2 for integration, with prototyping in C, C++, Python, and JavaScript. 
 
-My focus is learning-based locomotion and sim-to-real transfer: taking policies trained in simulation and making them work on real hardware. IEEE student member and hackathon competitor.
+My focus is learning-based locomotion and sim-to-real transfer: taking policies trained in simulation and making them work on real hardware. IEEE student member and hackathon/techathon competitor.
 
 ---
 
